@@ -11,15 +11,11 @@
 <wpt lat="37.866473" lon="-122.317745"><name>BYC Finish RC</name></wpt>
 <wpt lat="37.85768" lon="-122.349403"><name>YRA-DOC</name></wpt>
 <wpt lat="37.872333" lon="-122.3585"><name>YRA-XOC</name></wpt>
-<rte><desc>NaN
+<rte><desc>Sail Race</desc>
 <rtept lat="37.867833" lon="-122.326"><name>BYC</name><cmt>port rounding</cmt></rtept>
-</rte>
 <rtept lat="37.85768" lon="-122.349403"><name>YRA-DOC</name><cmt>starboard rounding</cmt></rtept>
-</rte>
 <rtept lat="37.872333" lon="-122.3585"><name>YRA-XOC</name><cmt>starboard rounding</cmt></rtept>
-</rte>
 <rtept lat="37.85768" lon="-122.349403"><name>YRA-DOC</name><cmt>port rounding</cmt></rtept>
-</rte>
 <rtept lat="37.866473" lon="-122.317745"><name>BYC Finish RC</name><cmt>BYC Finish Line</cmt></rtept>
 <rtept lat="37.86697" lon="-122.318277"><name>BYC Finish Pin</name><cmt>BYC Finish Line</cmt></rtept>
 </rte>
